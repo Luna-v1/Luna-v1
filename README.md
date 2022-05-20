@@ -1,6 +1,7 @@
 ## 
 
-##### I turned this account into a private storage container since i stopped writing bots.
+ I turned this account into a private storage container since i stopped writing bots.
+ 
 ![33f15f368322c92e7f99065e40dc9b53](https://user-images.githubusercontent.com/88970869/169442282-91ef6671-649f-4268-9636-4a39dd4767a4.gif)
 
 
