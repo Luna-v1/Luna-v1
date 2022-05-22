@@ -4,15 +4,17 @@
  
 ![33f15f368322c92e7f99065e40dc9b53](https://user-images.githubusercontent.com/88970869/169442282-91ef6671-649f-4268-9636-4a39dd4767a4.gif)
 
+<details closed>
+<summary>Anime Lists</summary>
 
-##### Anime Lists
 ###### [AniList](https://anilist.co/user/Rory)
 ###### [AniList 18+](https://anilist.co/user/Rie)
 ###### [~~MAL~~](https://myanimelist.net/profile/nekography)
+</details>
 
-
-
-##### Waifu Lists
+<details closed>
+<summary>Waifu Lists</summary>
+ 
 ###### [Top 10](https://mywaifulist.moe/user/96746/list/10539)
 
 ###### [Waifus that have been in top 10 previously](https://mywaifulist.moe/user/96746/list/10548)
@@ -28,6 +30,6 @@
 ###### [Best Girls](https://mywaifulist.moe/user/96746/list/10416)
 
 ###### [Mommy](https://mywaifulist.moe/user/96746/list/10415)
-
+</details>
 
 ![ezgif-2-6bfe344381](https://user-images.githubusercontent.com/88970869/169443633-980d0456-2c79-44bf-92fe-6b1c422b31b3.gif)
