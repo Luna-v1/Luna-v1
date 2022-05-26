@@ -8,7 +8,7 @@
 <summary>Anime Lists</summary>
 
 ###### [AniList](https://anilist.co/user/Rory)
-###### [AniList 18+](https://anilist.co/user/Rie)
+###### [~~AniList 18+~~](https://anilist.co/user/Rie)
 ###### [~~MAL~~](https://myanimelist.net/profile/nekography)
 </details>
 
